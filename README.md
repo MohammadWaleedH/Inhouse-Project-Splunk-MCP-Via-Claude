@@ -24,6 +24,7 @@ Can automation reduce MTTR without removing human oversight?
 
 
 Core Components
+
 1️⃣ Splunk SIEM
 
 Generates real-time alerts
